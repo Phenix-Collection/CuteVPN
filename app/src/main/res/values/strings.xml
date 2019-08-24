@@ -61,7 +61,7 @@
     <string name="traffic_in">Downloaded: %1$s</string>
     <string name="traffic_out">Uploaded: %1$s</string>
     <string name="traffic_totally"><b>Totally through the application</b></string>
-    <string name="rating_title"><b>Thanks for using Energy VPN!</b></string>
+    <string name="rating_title"><b>Thanks for using JAPAN VPN!</b></string>
     <string name="rating_sure">Sure</string>
     <string name="rating_not">Not really</string>
     <string name="rating_text">We are trying to make the app better!
@@ -69,7 +69,7 @@
         \nby rating us?
     </string>
     <string name="share_text">
-        Energy VPN Free! Unlimited and 100% Free!
+        JAPAN VPN Free! Unlimited and 100% Free!
         \nMore than 22 countries to connect and unblock all blocked websites.
         \n\nhttps://play.google.com/store/apps/details?id=jp.socie.hnt
     </string>
@@ -86,24 +86,24 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
 
-    <string name="slide_1_title">Energy VPN</string>
+    <string name="slide_1_title">JAPAN VPN</string>
     <string name="slide_1_desc">A High Quality VPN And IP Changer!</string>
 
     <string name="slide_2_title">Unlimited</string>
     <string name="slide_2_desc">Download Any file We provide you unlimited Bendwidth!</string>
 
     <string name="slide_3_title">World-wide servers</string>
-    <string name="slide_3_desc">You can connect EnergyVPN to 22 Countries.Select country and start Browsing.</string>
+    <string name="slide_3_desc">You can connect JAPAN VPN to 22 Countries.Select country and start Browsing.</string>
 
     <string name="slide_4_title">Unlock</string>
     <string name="slide_4_desc">Unlock any website which are blocked in your country. \n Now no more restrictions</string>
 
-    <string name="turtlevpn">EnergyVPN</string>
-    <string name="about_us">EnergyVPN Is free VPN app which is freely avalible on Google Playtstore. \n EnergyVPN provides you unlimited bendwidth so you can surf any website without any limit.\n
-    There are lots of server avalible for connect from various contry. \n you can unlock any website with EnergyVPN</string>
+    <string name="turtlevpn">JAPAN VPN FREE</string>
+    <string name="about_us">JAPAN VPN Is free VPN app which is freely avalible on Google Playtstore. \n JapanVPN provides you unlimited bendwidth so you can surf any website without any limit.\n
+    There are lots of server avalible for connect from various contry. \n you can unlock any website with JapanVPN</string>
     <string name="quick_connect">Quick Connect!</string>
     <string name="quotes_here">1 Quote Avalible Soon</string>
-    <string name="turtlevpn_speedtest">EnergyVPN SpeedTest</string>
+    <string name="turtlevpn_speedtest">JAPAN VPN SpeedTest</string>
     <!-- TODO - add your ad unit Ids -->
     <!-- AdMob ad unit IDs -->
 </resources>
