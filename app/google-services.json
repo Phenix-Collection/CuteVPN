@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "314641400240",
+    "firebase_url": "https://fsh1-6ddbb.firebaseio.com",
+    "project_id": "fsh1-6ddbb",
+    "storage_bucket": "fsh1-6ddbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314641400240:android:ab6845002292ee17",
+        "android_client_info": {
+          "package_name": "jp.socie.hnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314641400240-r3b82p19loki3vla9u299k96uo3mfrqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgO4h9sVieG8sS-CJS-6zzQgcC4UdswDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314641400240-r3b82p19loki3vla9u299k96uo3mfrqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314641400240:android:b9c511f2221ad61b",
+        "android_client_info": {
+          "package_name": "nor.upvpn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314641400240-r3b82p19loki3vla9u299k96uo3mfrqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgO4h9sVieG8sS-CJS-6zzQgcC4UdswDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314641400240-r3b82p19loki3vla9u299k96uo3mfrqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.numberprogressbar:library-1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/c0f8a179f917352714173525ceb3cba3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/c0f8a179f917352714173525ceb3cba3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.numberprogressbar/library/1.2/4ed4d82dacac7a8a326ecb9ae2f6863becb88c55/library-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
