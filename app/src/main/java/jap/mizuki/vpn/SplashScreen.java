@@ -13,6 +13,8 @@ public class SplashScreen extends AwesomeSplash {
     @Override
     public void initSplash(ConfigSplash configSplash) {
 
+        Intent i = new Intent(SplashScreen.this, WelcomeActivity.class);
+        startActivity(i);
 
         //Customize Circular Reveal
         configSplash.setBackgroundColor(R.color.bg_screen1); //any color you want form colors.xml
@@ -39,7 +41,7 @@ public class SplashScreen extends AwesomeSplash {
 
 
         //Customize Title
-        configSplash.setTitleSplash("Energy VPN"); //change your app name here
+        configSplash.setTitleSplash("Japan VPN"); //change your app name here
         configSplash.setTitleTextColor(R.color.mapLine);
         configSplash.setTitleTextSize(30f); //float value
         configSplash.setAnimTitleDuration(2000);
