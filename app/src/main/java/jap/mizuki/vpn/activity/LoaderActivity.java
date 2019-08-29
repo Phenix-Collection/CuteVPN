@@ -64,9 +64,6 @@ public class LoaderActivity extends BaseActivity {
 
 
     public void initSplash(ConfigSplash configSplash) {
-
-
-
         configSplash.setTitleSplash("Please Wait While"); //change your app name here
         configSplash.setTitleTextColor(R.color.mapLine);
         configSplash.setTitleTextSize(30f); //float value

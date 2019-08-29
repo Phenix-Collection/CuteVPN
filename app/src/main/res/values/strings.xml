@@ -1,6 +1,4 @@
 <resources>
-
-
     <string name="action_settings">Settings</string>
     <string name="home_pop_up_title_choose_country">Choose country</string>
     <string name="server_btn_connect">Connect</string>
@@ -42,7 +40,7 @@
     <string name="choose_country_priority_summary">If not enabled then use random connection</string>
     <string name="choose_country">Choose country</string>
     <string name="error_random_country">Server with priority country %1$s is not available</string>
-    <string name="success_pop_up_title"><b>You are successfuly connected!</b></string>
+    <string name="success_pop_up_title"><b>You are connected!</b></string>
     <string name="open_playmarket">Open PlayStore</string>
     <string name="open_browser">Open browser</string>
     <string name="show_my_desktop">Show Homescreen</string>

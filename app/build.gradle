@@ -22,13 +22,13 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "jp.socie.hnt"
+        applicationId "jap.mizuki.vpn"
         minSdkVersion 14
         targetSdkVersion 26
-        versionCode 26
-        versionName "1.6.3"
+        versionCode 8
+        versionName "6.0.0"
         multiDexEnabled true
-        setProperty("archivesBaseName", "energyvpn-$versionName-$versionCode")
+        setProperty("archivesBaseName", "japanvpn-$versionName-$versionCode")
     }
     lintOptions {
         disable 'MissingTranslation'
@@ -37,9 +37,9 @@ android {
     productFlavors {
 
         pro {
-            applicationId "jp.socie.hnt"
-            resValue "string", "app_name", "Energy VPN"
-            resValue "string", "notification_title", "EnergyVPN - %s"
+            applicationId "jap.mizuki.vpn"
+            resValue "string", "app_name", "JAPAN VPN"
+            resValue "string", "notification_title", "JAPAN VPN - %s"
         }
     }
 

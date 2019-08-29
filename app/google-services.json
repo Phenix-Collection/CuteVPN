@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:314641400240:android:e4d58b2c2cfc7d83",
+        "android_client_info": {
+          "package_name": "jap.mizuki.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314641400240-r3b82p19loki3vla9u299k96uo3mfrqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgO4h9sVieG8sS-CJS-6zzQgcC4UdswDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314641400240-r3b82p19loki3vla9u299k96uo3mfrqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:314641400240:android:ab6845002292ee17",
         "android_client_info": {
           "package_name": "jp.socie.hnt"
