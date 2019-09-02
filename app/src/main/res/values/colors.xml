@@ -5,13 +5,13 @@
     <color name="colorAccent">#356690</color>
     <color name="colorT">#356690</color>
     <color name="bg">#000</color>
-    <color name="popUpBg">#ffffff</color>
+    <color name="popUpBg">#AAffff</color>
     <color name="listDivider">#356690</color>
 
     <color name="mapFill">#1c3f60</color>
     <color name="mapStroke">#7f7f7f</color>
     <color name="mapBackground">#71bad2</color>
-    <color name="mapNameCountry">#ffffff</color>
+    <color name="mapNameCountry">#000fff</color>
     <color name="main_color">#f3f51b</color>
     <color name="secondary_color">#1c3f60</color>
     <color name="mapLine">#ffffff</color>
@@ -19,7 +19,7 @@
     <color name="toolbarTitle">#ffffff</color>
     <color name="toolbarBg">#000000</color>
     <color name="background">#a418ed</color>
-    <color name="buttonText">#ffffff</color>
+    <color name="buttonText">#00f000</color>
     <color name="buttonBg">#a418ed</color>
 
     <color name="totalServers">#ffffff</color>

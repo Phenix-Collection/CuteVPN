@@ -161,8 +161,8 @@ public class LoaderActivity extends BaseActivity {
             @Override
             public void onResponse(Call call, Response response) throws IOException {
                 Gson gson = new Gson();
-                Quotes[] quotesArray = gson.fromJson(response.body().charStream(), Quotes[].class);
-                updateUI(quotesArray[0].content);
+                //Quotes[] quotesArray = gson.fromJson(response.body().charStream(), Quotes[].class);
+                //updateUI(quotesArray[0].content);
             }
         });
     }
